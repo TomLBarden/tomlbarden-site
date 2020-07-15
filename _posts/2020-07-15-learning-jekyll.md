@@ -11,5 +11,3 @@ It's interesting to be writing prose in markdown; of course I've done it for doc
 I wonder how easy it'll be to configure the site to allow me to post new blog posts without doing a whole deployment. I think I saw other Jekyll themes using some sort of XML feed, so that might be something to investigate.
 
 I might also want to look into setting up two different blog pages; one for writing, and one for more technical entries. Maybe I need to create a to do list...
-
-Test
