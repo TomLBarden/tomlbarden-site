@@ -2,6 +2,7 @@
 layout: post
 title: "Learning Jekyll"
 author: "Tom"
+tags: Dev
 ---
 
 Alright, well, I've spent the last couple of hours trying to get up and running with Jekyll. This is the first blog post I'm writing, just as a test really. 

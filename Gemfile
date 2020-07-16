@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 3.8.7"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 
